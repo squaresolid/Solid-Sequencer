@@ -1,0 +1,92 @@
+Partlist
+
+Assembly variant: 
+
+Part        Value          Package          Library               Position (inch)       Orientation
+
+C1          10u            050_020          gm-caps-electro-pol   (0.65 1.45)           R270
+C2          100N           075X030_3        gm-caps-film-chicklet (1.85 2.4)            R90
+C3          100n           075X030          gm-caps-film-chicklet (2.9 1.45)            R0
+C4          10n            075X030          gm-caps-film-chicklet (2.95 0.9)            R180
+C5          100u           050_020_1        gm-caps-electro-pol   (2.8 1.25)            R90
+C7          10u            050_020_1        gm-caps-electro-pol   (0.15 2.3)            R180
+D1          1N4148         DO35-3           gm-diodes             (1.05 1.8)            R270
+D2          1N4148         DO35-3           gm-diodes             (0.55 0.35)           R90
+D3          1N4148         DO35-3           gm-diodes             (0.9 0.35)            R90
+D4          1N4148         DO35-3           gm-diodes             (1.25 0.35)           R90
+D5          1N4148         DO35-3           gm-diodes             (1.6 0.35)            R90
+D6          1N4148         DO35-3           gm-diodes             (1.95 0.35)           R90
+D7          1N4148         DO35-3           gm-diodes             (2.3 0.35)            R90
+D8          1N4148         DO35-3           gm-diodes             (2.65 0.35)           R90
+D9          1N4148         DO35-3           gm-diodes             (3 0.35)              R90
+D11         1N4148         DO35-3           gm-diodes             (1.55 2.4)            R90
+D12                        DO41-3           gm-diodes             (0.3 2.15)            R270
+IC1         NE555          DIL-08           st-microelectronics   (0.7 1.8)             R0
+IC2         4046N          DIL16            40xx                  (2.7 1.8)             R0
+IC3         4022N          DIL16            40xx                  (1.6 1.8)             R0
+J1                         CLOSED_MONO_JACK gm-jacks              (3.55 0.85)           MR0
+J2                         CLOSED_MONO_JACK gm-jacks              (3.45 1.05)           R180
+J3                         CLOSED_MONO_JACK gm-jacks              (-0.05 1.35)          R0
+LED1                       LED3MM           led                   (0.25 1.05)           R180
+LED2                       LED3MM           led                   (0.35 0.35)           R270
+LED3                       LED3MM           led                   (0.7 0.35)            R270
+LED4                       LED3MM           led                   (1.05 0.35)           R270
+LED5                       LED3MM           led                   (1.4 0.35)            R270
+LED6                       LED3MM           led                   (1.75 0.35)           R270
+LED7                       LED3MM           led                   (2.1 0.35)            R270
+LED8                       LED3MM           led                   (2.45 0.35)           R270
+LED9                       LED3MM           led                   (2.8 0.35)            R270
+PAD1        GND            2,15/1,0         wirepad               (0.35 2.45)           R180
+PAD2        GND            2,15/1,0         wirepad               (2.075 2.25)          R0
+PAD3        GND            2,15/1,0         wirepad               (0.45 2.45)           R0
+PAD4                       2,15/1,0         wirepad               (3.15 2.4)            R0
+PAD5                       2,15/1,0         wirepad               (0.3 0.2)             R0
+PAD6                       2,15/1,0         wirepad               (0.2 0.9)             R0
+PAD7                       2,15/1,0         wirepad               (2.55 1.45)           R0
+PAD8                       2,15/1,0         wirepad               (2.55 2.2)            R0
+PAD9                       2,15/1,0         wirepad               (2.35 1.45)           R0
+PAD10                      2,15/1,0         wirepad               (2.45 1.35)           R0
+PAD11                      2,15/1,0         wirepad               (2.65 2.1)            R0
+POT1                       POT              gm-pots               (0.65 2.2)            MR0
+POT2        10K            POT              gm-pots               (0.45 0.65)           R270
+POT3        10K            POT              gm-pots               (0.8 0.65)            R270
+POT4        10K            POT              gm-pots               (1.15 0.65)           R270
+POT5        10K            POT              gm-pots               (1.5 0.65)            R270
+POT6        10K            POT              gm-pots               (1.85 0.65)           R270
+POT7        10K            POT              gm-pots               (2.2 0.65)            R270
+POT8        10K            POT              gm-pots               (2.55 0.65)           R270
+POT9        10K            POT              gm-pots               (2.9 0.65)            R270
+POT10       100K           POT              gm-pots               (2.85 2.3)            R270
+POT11       100K           POT              gm-pots               (3.05 1.2)            R90
+R1          4K7            0207/7           rcl                   (0.6 1.3)             R0
+R2          10K            0207/7           rcl                   (0.35 0.65)           R90
+R3          10K            0207/7           rcl                   (0.7 0.65)            R90
+R4          10K            0207/7           rcl                   (1.05 0.65)           R90
+R5          10K            0207/7           rcl                   (1.4 0.65)            R90
+R6          10K            0207/7           rcl                   (1.75 0.65)           R90
+R7          10K            0207/7           rcl                   (2.1 0.65)            R90
+R8          10K            0207/7           rcl                   (2.45 0.65)           R90
+R9          10K            0207/7           rcl                   (2.8 0.65)            R90
+R10         100K           0207/7           rcl                   (1.2 2.25)            R180
+R11         100K           0207/7           rcl                   (1.65 2.4)            R90
+R12         100K           0207/7           rcl                   (1.45 2.4)            R270
+R13         10K            0207/7           rcl                   (1.75 2.4)            R270
+R14         1K             0207/7           rcl                   (2.65 1.3)            R90
+R15         10K            0207/7           rcl                   (3 2.3)               R90
+R16         220K           0207/7           rcl                   (2.75 2.3)            R270
+R17         220R           0207/7           rcl                   (0.7 2.35)            R0
+R18         10K            0207/7           rcl                   (0.6 1.2)             R180
+R19         1K             0207/7           rcl                   (3.2 0.35)            R90
+ROTARY0-COM                2,15/1,0         wirepad               (1.35 2.1)            R0
+ROTARY1                    2,15/1,0         wirepad               (0.85 0.9)            R0
+ROTARY2                    2,15/1,0         wirepad               (1.3 0.9)             R0
+ROTARY3                    2,15/1,0         wirepad               (1.4 1.1)             R0
+ROTARY4                    2,15/1,0         wirepad               (2.2 1.05)            R0
+ROTARY5                    2,15/1,0         wirepad               (2.1 0.9)             R0
+ROTARY6                    2,15/1,0         wirepad               (1.75 1.4)            R0
+ROTARY7                    2,15/1,0         wirepad               (1.95 1.3)            R0
+ROTARY8                    2,15/1,0         wirepad               (0.9 1.45)            R0
+SW1         MOMENTARY      SPST             gm-switches           (1 2.35)              R0
+SW2         MOMENTARY      SPST             gm-switches           (1.95 2.4)            R90
+SW3         SPST           SPST             gm-switches           (2.6 2.5)             R90
+V1          9VBATTERY      AB9V             gm-supply             (0.3 1.75)            R0
